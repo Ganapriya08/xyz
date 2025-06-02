@@ -1,6 +1,9 @@
+ HEAD
 hloooo
 good morning
 hi dsatm
 hi git lab
 this is our git
 exam dayy!!
+good morning
+ 8ccea41 (good morning)
